@@ -1,4 +1,4 @@
-This is the Rollaball game.
+This is the Rollaball game. This game is a test to start learning how to design 3D games on Unity.
 You can move the ball using the arrow keys.
 ![image](https://user-images.githubusercontent.com/51185907/151405996-ce270974-4e97-4dc3-923c-806533b228ca.png)
 
